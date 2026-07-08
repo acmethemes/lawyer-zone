@@ -15,7 +15,6 @@ if ( ! class_exists( 'Lawyer_Zone_Theme_Info' ) ) {
 		private $page_title;
 		private $menu_title;
 		private $tabs;
-
 		/**
 		 * Constructor.
 		 */
