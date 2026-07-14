@@ -37,7 +37,7 @@ Lawyer Zone is a chic and modern WordPress theme designed especially for Law bus
 
 == Change log ==
 
-= 4.0.0 - Jul 13 2026 =
+= 4.0.0 - Jul 14 2026 =
 * Updated: WordPress 7.0 compatibility
 * Updated: Requires PHP 7.4
 
